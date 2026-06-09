@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+dzone.db
+media/videos/*
+media/images/*
+media/avatars/*
+media/thumbnails/*
+media/stories/*
+!media/videos/.gitkeep
+!media/images/.gitkeep
+!media/avatars/.gitkeep
+!media/thumbnails/.gitkeep
+!media/stories/.gitkeep
+.DS_Store
+*.log
